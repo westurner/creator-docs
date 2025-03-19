@@ -11,7 +11,7 @@ This guide outlines the process of creating a template and making it accessible 
 
 One benefit of templates is they can provide students a **curated** set of assets to work with, such as 3D models or scripts. This can be a great alternative to having students create their own assets, which can be time consuming, or using models from the Toolbox.
 
-Premade assets can also be a part of lesson plans. Such as challenging students to create apply urban planning to design a city, or perhaps debug a set of scripts.
+Premade assets can also be a part of lesson plans. Such as challenging students to apply urban planning to design a city, or perhaps debug a set of scripts.
 
 <GridContainer numColumns="2">
   <figure>
