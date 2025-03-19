@@ -439,7 +439,7 @@ functions:
         summary: |
           The table to be referenced.
     returns:
-      - type: table
+      - type: number
         summary: ''
     tags:
     code_samples:
